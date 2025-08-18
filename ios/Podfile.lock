@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - gemini_ai (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - gemini_ai (from `.symlinks/plugins/gemini_ai/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  gemini_ai:
+    :path: ".symlinks/plugins/gemini_ai/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  gemini_ai: c15f9c06da45a21dda615b68a970efd85e4a84ad
+
+PODFILE CHECKSUM: a57f30d18f102dd3ce366b1d62a55ecbef2158e5
+
+COCOAPODS: 1.15.2
